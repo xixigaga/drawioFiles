@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T07:00:39.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qFxwH4p7Pm6iM2cO-KhM" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-07T07:04:29.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y2IrZBYCqzr8lhg2Fe5W" version="21.7.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="模式1">
     <mxGraphModel dx="1014" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="jZZy9cJ6slIVJ12cToO3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZy9cJ6slIVJ12cToO3-4" target="jZZy9cJ6slIVJ12cToO3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jZZy9cJ6slIVJ12cToO3-34" value="4 申请受理&amp;amp;修改账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jZZy9cJ6slIVJ12cToO3-28" vertex="1" connectable="0">
+        <mxCell id="jZZy9cJ6slIVJ12cToO3-34" value="4 申请受理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jZZy9cJ6slIVJ12cToO3-28" vertex="1" connectable="0">
           <mxGeometry x="-0.0933" y="2" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
         <mxCell id="jZZy9cJ6slIVJ12cToO3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jZZy9cJ6slIVJ12cToO3-6" target="jZZy9cJ6slIVJ12cToO3-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jZZy9cJ6slIVJ12cToO3-36" value="2 数据采集" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jZZy9cJ6slIVJ12cToO3-15" vertex="1" connectable="0">
+        <mxCell id="jZZy9cJ6slIVJ12cToO3-36" value="2 数据采集&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;业务联动技术支持" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jZZy9cJ6slIVJ12cToO3-15" vertex="1" connectable="0">
           <mxGeometry x="-0.0496" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -120,7 +120,7 @@
         <mxCell id="jZZy9cJ6slIVJ12cToO3-22" value="结算账户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="jZZy9cJ6slIVJ12cToO3-38" vertex="1">
           <mxGeometry y="39" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jZZy9cJ6slIVJ12cToO3-39" value="3 申请融资" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=55;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+        <mxCell id="jZZy9cJ6slIVJ12cToO3-39" value="3 申请融资&amp;amp;修改账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=55;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="306.25" y="260" as="geometry" />
         </mxCell>
         <mxCell id="jZZy9cJ6slIVJ12cToO3-42" value="5 资金服务&amp;amp;风控服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
